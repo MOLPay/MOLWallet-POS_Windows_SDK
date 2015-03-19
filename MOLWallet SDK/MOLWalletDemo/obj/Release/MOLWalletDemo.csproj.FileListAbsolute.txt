@@ -1,0 +1,14 @@
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\bin\Release\MOLWalletDemo.exe.config
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\bin\Release\MOLWalletDemo.exe
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\bin\Release\MOLWalletDemo.pdb
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\bin\Release\MOLWallet SDK.dll
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\bin\Release\Newtonsoft.Json.dll
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.EndPayment.resources
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.Form1.resources
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.MobileQRPayment.resources
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.Payment.resources
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.Properties.Resources.resources
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.csproj.GenerateResource.Cache
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.exe
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.pdb
+C:\SDK\Windows POS SDK\MOLWallet SDK\MOLWalletDemo\obj\Release\MOLWalletDemo.csprojResolveAssemblyReference.cache
