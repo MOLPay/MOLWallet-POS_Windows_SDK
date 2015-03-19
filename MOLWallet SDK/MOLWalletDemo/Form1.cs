@@ -25,7 +25,7 @@ namespace MOLWalletDemo
         {
             Payment paymentForm = new Payment(tbAmount.Text, tbDescription.Text);
             paymentForm.StartPosition = FormStartPosition.CenterParent;
-            paymentForm.ShowDialog();
+            paymentForm.ShowDialog();//
         }
     }
 }
